@@ -1,0 +1,6 @@
+django
+gunicorn
+django-heroku
+mkdocs
+mkdocs-material
+mkdocs-git-revision-date-plugin
